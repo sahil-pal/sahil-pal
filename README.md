@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sahil-pal
 - 👀 I’m interested in **Web** and **Mobile** development
 - 🌱 I’m currently learning Flutter and doing projects in Nodejs.
+- 🌱 I have prior industrial working experience in Nodejs.
 - 📫 How to reach me : sahilpal67@gmail.com
 
 <!---
