@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahil-pal
-- 👀 I’m interested in **Web** and **Mobile** development
-- 🌱 I’m currently learning Flutter and doing projects in Nodejs.
+- 👀 I’m interested in **Web**, **Blockchain** and **Mobile** development
+- 🌱 Recently I have done projects in Blockchain.
 - 🌱 I have prior industrial working experience in Nodejs.
 - 📫 How to reach me : sahilpal67@gmail.com
 
