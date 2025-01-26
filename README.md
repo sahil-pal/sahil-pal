@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil-pal
-- 👀 I’m interested in **Web**, **Blockchain** and **Mobile** development
+- 👀 I’m interested in **Full stack | cloud native apps** development
 - 🌱 Recently I have done projects in Blockchain.
 - 🌱 I have prior industrial working experience in Nodejs.
 - 📫 How to reach me : sahilpal67@gmail.com
